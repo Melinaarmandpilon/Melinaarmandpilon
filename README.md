@@ -60,7 +60,7 @@
       <a href="#">
         <img src="./img/vercel.svg" width="48" height="48" alt="Git" />
       </a>
-      <br>Versel
+      <br>Vercel
     </td>
     <td align="center"  width="96">
       <a href="#">
