@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hola mi nombre es Melina, bienvenidos a mi perfil 👋
 
+- Actualmente estoy estudiando para  convertime en Desarrolladora Web Full Stack.
 <!--
+## SOBRE MI
+
+Soy ingeniera Civil reiventandome
 **Melinaarmandpilon/Melinaarmandpilon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
