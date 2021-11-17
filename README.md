@@ -1,6 +1,6 @@
 ### HOLA!!👋 MI NOMBRE ES MELINA, BIENVENIDOS A MI PERFIL 👋
 
-🌱 Actualmente estoy estudiando para convertime en Desarrolladora Web Full Stack.
+🌱 Soy Desarrolladora Web Full Stack e Ingeniera Civil.
 
 <p align="center">
 
@@ -10,11 +10,11 @@
 ## <h3>Sobre mi</h3>
 
 
-- ⚡ Soy ingeniera Civil, actualmente reiventandome y apostando a los nuevos comienzos.
+- ⚡ Actualmente estoy dando un giro a mi carrera profesional e incursionando en el mundo IT.
 
 - 👯 Me gusta mucho viajar, disfrutar de la naturaleza y de la familia. 
 
-## 🚀 TECNOLOGIAS
+## 🚀 HABILIDADES TECNICAS
 
 <table align="center">
   <tr>
