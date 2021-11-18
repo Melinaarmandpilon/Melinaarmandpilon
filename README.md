@@ -1,16 +1,16 @@
 ### HOLA!!👋 MI NOMBRE ES MELINA, BIENVENIDOS A MI PERFIL 👋
-<hr/>
 
-🌱 Soy Desarrolladora Web Full Stack e Ingeniera Civil.
+#### 🌱 Soy Desarrolladora Web Full Stack e Ingeniera Civil.
 
 <p align="center">
 
 <img align="center" height="250" width="400" alt="Mehedi Islam Ripon" src="./img/image_processing20191012-4183-vmsbyp.gif" />
 
+<br>
 
-<hr/>
-✨SOBRE MI
-<hr/>
+### ✨SOBRE MI
+
+<br>
 
 
   Actualmente estoy dando un giro a mi carrera profesional e incursionando en el mundo IT.
@@ -23,9 +23,9 @@
 
     💖 Me gusta mucho viajar, disfrutar de la naturaleza y de la familia. 
 
+<br>
 
-<hr/>
-✨ HABILIDADES TECNICAS
+### ✨ HABILIDADES TECNICAS
 <hr/>
 
 <table align="center">
@@ -126,8 +126,7 @@
 </table>
 
 
-<hr/>
-✨ HABILIDADES BLANDAS
+### ✨ HABILIDADES BLANDAS
 <hr/>
 
 - Iniciativa 
@@ -137,15 +136,17 @@
 - Empatía
 - Orientación a resultados
 - Generación de ideas
-  
-<hr/>
-✨ESTADISTICAS DE GITHUB
+
+<br>
+
+### ✨ESTADISTICAS DE GITHUB
 <hr/>
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=melinaarmandpilon&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melinaarmandpilon&layout=compact&theme=buefy)](https://github.com/melinaarmandpilon/github-readme-stats)
 
-<hr/>
-📫 COMO CONTACTARME:
+<br>
+
+### 📫 COMO CONTACTARME:
 <hr/>
 
 <p >
