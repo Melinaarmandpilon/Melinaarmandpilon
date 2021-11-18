@@ -1,4 +1,5 @@
 ### HOLA!!👋 MI NOMBRE ES MELINA, BIENVENIDOS A MI PERFIL 👋
+<hr/>
 
 🌱 Soy Desarrolladora Web Full Stack e Ingeniera Civil.
 
@@ -7,23 +8,25 @@
 <img align="center" height="250" width="400" alt="Mehedi Islam Ripon" src="./img/image_processing20191012-4183-vmsbyp.gif" />
 
 
-
-### ✨SOBRE MI
+<hr/>
+✨SOBRE MI
+<hr/>
 
 
   Actualmente estoy dando un giro a mi carrera profesional e incursionando en el mundo IT.
 
-      ✨ Considero que soy una persona proactiva, curiosa, autodidacta y que siempre va por más 💪💪
+    ✨ Considero que soy una persona proactiva, curiosa, autodidacta y que siempre va por más 💪💪
 
-      ✨ Me destaco por mi gran capacidad de adaptación y resolución de problemas.
+    ✨ Me destaco por mi gran capacidad de adaptación y resolución de problemas.
 
-      💖 Disfruto mucho trabajando en equipo, de buscar la excelencia y de pujar hacia adelante para que los objetivos en común sean cumplidos.
+    💖 Disfruto mucho trabajando en equipo, de buscar la excelencia y de pujar hacia adelante para que los objetivos en común sean cumplidos.
 
-      💖 Me gusta mucho viajar, disfrutar de la naturaleza y de la familia. 
+    💖 Me gusta mucho viajar, disfrutar de la naturaleza y de la familia. 
 
 
-
-### ✨ HABILIDADES TECNICAS
+<hr/>
+✨ HABILIDADES TECNICAS
+<hr/>
 
 <table align="center">
   <tr>
@@ -123,8 +126,9 @@
 </table>
 
 
-
-  ### ✨ HABILIDADES BLANDAS
+<hr/>
+✨ HABILIDADES BLANDAS
+<hr/>
 
 - Iniciativa 
 - Motivación
@@ -134,20 +138,26 @@
 - Orientación a resultados
 - Generación de ideas
   
- ### ✨ESTADISTICAS DE GITHUB
+<hr/>
+✨ESTADISTICAS DE GITHUB
+<hr/>
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=melinaarmandpilon&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melinaarmandpilon&layout=compact&theme=buefy)](https://github.com/melinaarmandpilon/github-readme-stats)
-### 📫 COMO CONTACTARME:
+
+<hr/>
+📫 COMO CONTACTARME:
+<hr/>
 
 <p >
-<!-- <table align="center"> -->
-  <td align="center" width="96">
+<!-- <table ="center"> -->
+  <!-- <td align="center" width="96"> -->
     <a href="https://www.linkedin.com/in/melinaarmandpilon/" target="_blank"><img alt="LinkedIn" width="25px" src="./img/Linkedin.svg" align="center"></a>
-  </td>
-
-  <td align="center" width="96">
+  <!-- </td> -->
+  </p>  
+  <p >
+  <!-- <td align="center" width="96"> -->
     <a href="mailto:meapilon@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="./img/Gmail.svg"></a> 
-  </td>
+  <!-- </td> -->
   <!-- </table> -->
 </p>  
 
