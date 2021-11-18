@@ -7,14 +7,23 @@
 <img align="center" height="250" width="400" alt="Mehedi Islam Ripon" src="./img/image_processing20191012-4183-vmsbyp.gif" />
 
 
-## <h3>Sobre mi</h3>
+
+### ✨SOBRE MI
 
 
-- ⚡ Actualmente estoy dando un giro a mi carrera profesional e incursionando en el mundo IT.
+  Actualmente estoy dando un giro a mi carrera profesional e incursionando en el mundo IT.
 
-- 👯 Me gusta mucho viajar, disfrutar de la naturaleza y de la familia. 
+      ✨ Considero que soy una persona proactiva, curiosa, autodidacta y que siempre va por más 💪💪
 
-## 🚀 HABILIDADES TECNICAS
+      ✨ Me destaco por mi gran capacidad de adaptación y resolución de problemas.
+
+      💖 Disfruto mucho trabajando en equipo, de buscar la excelencia y de pujar hacia adelante para que los objetivos en común sean cumplidos.
+
+      💖 Me gusta mucho viajar, disfrutar de la naturaleza y de la familia. 
+
+
+
+### ✨ HABILIDADES TECNICAS
 
 <table align="center">
   <tr>
@@ -47,15 +56,15 @@
         <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
-  </tr>
-    </td>
-  <tr align="center">
     <td align="center" width="96">
       <a href="#">
         <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
+  </tr>
+    </td>
+  <tr align="center">
     <td align="center" width="96">
       <a href="#">
         <img src="./img/vercel.svg" width="48" height="48" alt="Git" />
@@ -73,26 +82,26 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="NodeJS" />
       </a>
       <br>NodeJS
-    <!-- </td>
+    </td>
     <td align="center" width="96"> 
       <a href="#" >
         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48" alt="ExpressJS" />
       </a>
       <br>ExpressJS
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="#">
         <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" width="48" height="48" alt="Postgresql" />
       </a>
       <br>Postgresql
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
       </a>
@@ -104,18 +113,18 @@
       </a>
       <br>Github
     </td>
-    <!-- <td align="center"  width="96">
+    <td align="center"  width="96">
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="48" height="48" alt="npm" />
       </a>
       <br>npm
-    </td> -->
+    </td>
   </tr>
 </table>
 
 
 
-  ## 🚀 HABILIDADES BLANDAS
+  ### ✨ HABILIDADES BLANDAS
 
 - Iniciativa 
 - Motivación
@@ -124,16 +133,22 @@
 - Empatía
 - Orientación a resultados
 - Generación de ideas
+  
+ ### ✨ESTADISTICAS DE GITHUB
 
-## 📫 COMO CONTACTARME:
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=melinaarmandpilon&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melinaarmandpilon&layout=compact&theme=buefy)](https://github.com/melinaarmandpilon/github-readme-stats)
+### 📫 COMO CONTACTARME:
 
 <p >
-<table align="center">
+<!-- <table align="center"> -->
   <td align="center" width="96">
-    <a href="https://www.linkedin.com/in/melinaarmandpilon/" target="_blank"><img alt="LinkedIn" width="25px" src="./img/Linkedin.svg"></a>
+    <a href="https://www.linkedin.com/in/melinaarmandpilon/" target="_blank"><img alt="LinkedIn" width="25px" src="./img/Linkedin.svg" align="center"></a>
   </td>
+
   <td align="center" width="96">
     <a href="mailto:meapilon@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="./img/Gmail.svg"></a> 
   </td>
-  </table>
+  <!-- </table> -->
 </p>  
+
+
