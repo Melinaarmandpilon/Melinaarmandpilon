@@ -65,6 +65,12 @@
       </a>
       <br>Git
     </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="48" height="48" alt="npm" />
+      </a>
+      <br>npm
+    </td>
   </tr>
     </td>
   <tr align="center">
@@ -92,12 +98,12 @@
       </a>
       <br>ExpressJS
     </td>
-    <!-- <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#">
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
-    </td> -->
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" width="48" height="48" alt="Postgresql" />
@@ -115,12 +121,6 @@
         <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" width="48" height="48" alt="Github" />
       </a>
       <br>Github
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="48" height="48" alt="npm" />
-      </a>
-      <br>npm
     </td>
   </tr>
 </table>
